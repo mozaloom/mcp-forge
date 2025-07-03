@@ -1,0 +1,4 @@
+https://gradio-pypi-previews.s3.amazonaws.com/5bf3a9365e945803ba3b30ec470058c0d1aea03a/gradio-5.31.0-py3-none-any.whl
+smolagents[mcp]
+gradio[mcp]
+mcp fastmcp

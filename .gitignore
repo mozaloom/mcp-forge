@@ -176,3 +176,6 @@ cython_debug/
 pyproject.toml
 .python-version
 
+.venv
+venv
+node_modules
